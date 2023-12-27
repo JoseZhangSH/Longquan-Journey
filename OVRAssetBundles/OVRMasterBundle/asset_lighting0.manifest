@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4050357783
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 58445efee288c7052c9c86dceb388a2b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4a124a79f3cd96c32e82437ed953faa0
+HashAppended: 0
+ClassTypes:
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/Interaction/Samples/Lighting/DefaultLightingSettings.lighting
+Dependencies: []

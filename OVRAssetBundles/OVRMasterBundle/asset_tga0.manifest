@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1468002913
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 21342eb56324022a866246f396757efd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/Interaction/Samples/Objects/Props/Torch/Particles/Textures/brazier_pool.tga
+- Assets/Oculus/Interaction/Samples/Objects/Props/Torch/Particles/Textures/poof4x4.tga
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2802199461
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4303c09f77f0e012a9dc912386dae2c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c12678a98877549a3fe7bb52917258ad
+HashAppended: 0
+ClassTypes:
+- Class: 329
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Tooltips/DialogVideos/Instruction_HandGrab.mp4
+Dependencies: []
