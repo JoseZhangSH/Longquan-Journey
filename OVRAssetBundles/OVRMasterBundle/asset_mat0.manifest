@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1733313496
+CRC: 4023908748
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fe21ea7835c0551bb1d0ea25772e2a8a
+    Hash: f66f08830fe951be3023c0f010a0557e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 16c36b7b3350fad15821c42f96c32ccb
@@ -18,22 +18,42 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Oculus/Interaction/Samples/Objects/Props/Torch/Particles/Materials/Flame.mat
-- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/StencilSkydome.mat
-- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/SmallRoomRugMat.mat
+- Assets/Asian Far East Environment/Models/Materials/Plaster_01.mat
+- Assets/Asian Far East Environment/Models/Materials/Lampion.mat
 - Assets/Oculus/Interaction/Samples/Objects/Environment/MRDesk/Materials/MRDeskMat.mat
-- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/SmallRoomFurnitureMat.mat
-- Assets/Oculus/Interaction/Samples/Objects/Props/IconBox/Materials/iconBoxMaterial.mat
+- Assets/Asian Far East Environment/Particles/Materials/Leafs1.mat
+- "Assets/Scenes/Scanned Architecture/Materials/\u5251\u6C60-main.mat"
+- Assets/TextMesh Pro/Examples & Extras/Materials/Crate - Surface Shader Scene.mat
+- Assets/Asian Far East Environment/Models/Materials/Roof1.mat
+- "Assets/Scenes/Scanned Architecture/Materials/\u6865-main.mat"
 - Assets/Oculus/Interaction/Samples/Objects/Props/Torch/Particles/Materials/FlamePool.mat
+- Assets/Asian Far East Environment/Models/Materials/bridge small stone.mat
+- Assets/Asian Far East Environment/Models/Materials/Ornaments_alpha.mat
+- Assets/Asian Far East Environment/Models/Materials/wall asia.mat
 - Assets/Oculus/Interaction/Samples/Materials/SkyboxGradient.mat
-- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Models/skybaker.mat
-- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/WindowStencilWriter.mat
 - Assets/Oculus/Interaction/Samples/Objects/Environment/MRDesk/Materials/MRDeskShadow.mat
-- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/SmallRoomWoodMat.mat
-- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/SmallRoomFloorMat.mat
+- Assets/Asian Far East Environment/Models/Materials/RockGroup_LOD.mat
+- Assets/Asian Far East Environment/Models/Materials/wicker.mat
+- "Assets/Scenes/Scanned Architecture/Materials/\u4E03\u661F\u4E95-main.mat"
+- "Assets/Scenes/Scanned Architecture/Materials/\u5251\u6C60\u4EAD-main.mat"
+- "Assets/Scenes/Scanned Architecture/Materials/\u7089\u5B503-main.mat"
 - Assets/Oculus/Interaction/Runtime/Materials/RoundedBoxUnlit.mat
 - Assets/Oculus/Interaction/Runtime/Materials/OculusHand.mat
-- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/SmallRoomFabricMat.mat
+- Assets/Asian Far East Environment/Models/Materials/stone.mat
+- Assets/Asian Far East Environment/Models/Materials/bridge stone.mat
+- Assets/Asian Far East Environment/Models/Materials/RockGroup1.mat
+- Assets/Asian Far East Environment/Models/Materials/RockGroup4.mat
+- Assets/Asian Far East Environment/Models/Materials/deco1.mat
+- Assets/Materials/MRDeskMat.mat
+- "Assets/Scenes/Scanned Architecture/Materials/\u7089\u5B501-main.mat"
+- Assets/Asian Far East Environment/Particles/Materials/Leafs2.mat
 Dependencies:
-- D:/VRDemo/My project (2)/OVRAssetBundles/OVRMasterBundle/asset_png0
-- D:/VRDemo/My project (2)/OVRAssetBundles/OVRMasterBundle/asset_shader0
-- D:/VRDemo/My project (2)/OVRAssetBundles/OVRMasterBundle/asset_tga0
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_png0
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_tga0
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_tif0
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_tif1
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_tif2
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_tif3
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_tif4

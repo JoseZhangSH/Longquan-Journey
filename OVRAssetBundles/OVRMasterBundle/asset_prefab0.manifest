@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1478937965
+CRC: 582515558
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e7dfad421f46889563ce7944e2833371
+    Hash: a22647cc13b70ec315c7e7cb3d43f128
   TypeTreeHash:
     serializedVersion: 2
-    Hash: ffa9989bb89efdfbf5857d6e019cf146
+    Hash: 6bc4ce8fa5e966fc6ae4cdb1c1015a2b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -19,9 +19,13 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 23
   Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
 - Class: 33
   Script: {instanceID: 0}
 - Class: 43
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 54
   Script: {instanceID: 0}
@@ -37,15 +41,11 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 84
   Script: {instanceID: 0}
-- Class: 89
-  Script: {instanceID: 0}
 - Class: 90
   Script: {instanceID: 0}
 - Class: 91
   Script: {instanceID: 0}
 - Class: 95
-  Script: {instanceID: 0}
-- Class: 108
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
@@ -77,6 +77,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 9067480af55f5874d8f613b16812f968, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 2864da2f393a3e948bb12ec4ac9b1782, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f13d0cc015afe104a9bb1b248187c6bc, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 0a0ad4ecf30771d44bf163058922924b, type: 3}
 - Class: 114
@@ -179,13 +181,15 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
+- Class: 193
+  Script: {instanceID: 0}
 - Class: 198
   Script: {instanceID: 0}
 - Class: 199
   Script: {instanceID: 0}
-- Class: 213
+- Class: 205
   Script: {instanceID: 0}
-- Class: 215
+- Class: 213
   Script: {instanceID: 0}
 - Class: 222
   Script: {instanceID: 0}
@@ -236,10 +240,12 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
 Assets:
 - Assets/Oculus/Interaction/Runtime/Prefabs/HandGrab/HandGrabInteractor.prefab
-- Assets/Oculus/Interaction/Samples/Objects/Props/IconBox/IconBox.prefab
 - Assets/Oculus/Interaction/Samples/Prefabs/OculusInteractionSamplePokeButton.prefab
 - Assets/Oculus/Interaction/Samples/Audio/Prefabs/BasicPokeButtonPressAudio.prefab
 - Assets/Oculus/Interaction/Samples/Objects/Environment/Tooltips/Dialog.prefab
+- Assets/Asian Far East Environment/Prefabs_LOD/WallSmall2_el2.prefab
+- Assets/Asian Far East Environment/Prefabs_LOD/Shede.prefab
+- Assets/Asian Far East Environment/Prefabs_LOD/RockSmall3.prefab
 - Assets/Oculus/Interaction/Runtime/Prefabs/Hands.prefab
 - Assets/Oculus/Interaction/Samples/Prefabs/OculusInteractionSamplesButtonMenu.prefab
 - Assets/Oculus/Interaction/OVRIntegration/Runtime/Prefabs/Hands/OVRRightHandVisual.prefab
@@ -248,29 +254,35 @@ Assets:
 - Assets/Oculus/Interaction/Runtime/Prefabs/Poke/HandPokeInteractor.prefab
 - Assets/Oculus/Interaction/OVRIntegration/Runtime/Prefabs/OVRHands.prefab
 - Assets/Oculus/Interaction/Samples/Audio/Prefabs/BasicGrabReleaseAudio.prefab
-- Assets/Oculus/Interaction/Samples/Objects/LargeRoom.prefab
 - Assets/Oculus/Interaction/Samples/Objects/Environment/MRDesk/Desk.prefab
+- Assets/Asian Far East Environment/Prefabs_LOD/building_10 loded.prefab
 - Assets/Oculus/Interaction/OVRIntegration/Runtime/Prefabs/Hands/OVRRightHandSynthetic.prefab
-- Assets/Oculus/Interaction/Samples/Objects/Props/Mug/Mug.prefab
-- Assets/Oculus/Interaction/Samples/Objects/Environment/InfoFrame.prefab
 - Assets/Oculus/Interaction/OVRIntegration/Runtime/Prefabs/OVRHmd.prefab
 - Assets/Oculus/Interaction/OVRIntegration/Runtime/Prefabs/Hands/OVRLeftHandVisual.prefab
 - Assets/Oculus/VR/Prefabs/OVRCameraRig.prefab
 - Assets/Oculus/Interaction/OVRIntegration/Runtime/Prefabs/OVRInteraction.prefab
-- Assets/Oculus/Interaction/OVRIntegration/Runtime/Prefabs/Hands/OVRLeftHandSynthetic.prefab
 - Assets/Oculus/Interaction/Samples/Audio/Prefabs/BasicPokeButtonReleaseAudio.prefab
+- Assets/Oculus/Interaction/OVRIntegration/Runtime/Prefabs/Hands/OVRLeftHandSynthetic.prefab
 - Assets/Oculus/Interaction/Samples/Audio/Prefabs/BasicGrabPickupAudio.prefab
-- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/RoomEnvironment.prefab
-- Assets/Oculus/Interaction/Samples/Objects/Props/Key/Key.prefab
 - Assets/Oculus/Interaction/Runtime/Prefabs/ControllerHands.prefab
 - Assets/Oculus/Interaction/OVRIntegration/Runtime/Prefabs/OVRControllerHands.prefab
-- Assets/Oculus/Interaction/Samples/Objects/Environment/BasicGrabInfoFrames.prefab
+- Assets/Asian Far East Environment/Nature/Bamboo_03.prefab
+- Assets/Asian Far East Environment/Particles/Prefabs/Waterfall2.prefab
+- Assets/Asian Far East Environment/Prefabs_LOD/Lamp3.prefab
 Dependencies:
-- D:/VRDemo/My project (2)/OVRAssetBundles/OVRMasterBundle/asset_asset0
-- D:/VRDemo/My project (2)/OVRAssetBundles/OVRMasterBundle/asset_controller0
-- D:/VRDemo/My project (2)/OVRAssetBundles/OVRMasterBundle/asset_exr0
-- D:/VRDemo/My project (2)/OVRAssetBundles/OVRMasterBundle/asset_fbx0
-- D:/VRDemo/My project (2)/OVRAssetBundles/OVRMasterBundle/asset_mat0
-- D:/VRDemo/My project (2)/OVRAssetBundles/OVRMasterBundle/asset_png0
-- D:/VRDemo/My project (2)/OVRAssetBundles/OVRMasterBundle/asset_rendertexture0
-- D:/VRDemo/My project (2)/OVRAssetBundles/OVRMasterBundle/asset_wav0
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_asset0
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_controller0
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_fbx1
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_fbx2
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_fbx3
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_fbx4
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_fbx5
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_fbx6
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_mat2
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_png0
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_png1
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_rendertexture0
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_wav0

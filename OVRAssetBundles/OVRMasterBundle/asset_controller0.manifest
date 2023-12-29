@@ -3,7 +3,7 @@ CRC: 3580848815
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e34c52c2394aedb44cbd1d558ad83486
+    Hash: 2fea9135f07d18beda6ec216f087e67d
   TypeTreeHash:
     serializedVersion: 2
     Hash: bbfaa0f72a86ec3f92b1fc3129632085
@@ -18,4 +18,4 @@ Assets:
 - Assets/Oculus/Interaction/Runtime/Animations/Hands/HandController_r_.controller
 - Assets/Oculus/Interaction/Runtime/Animations/Hands/HandController_l_.controller
 Dependencies:
-- D:/VRDemo/My project (2)/OVRAssetBundles/OVRMasterBundle/asset_anim0
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_anim0

@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3341566446
+CRC: 2266864705
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 186d80b8703de3aef6633b0ae2c65fd9
+    Hash: 36eb8ca061ade47d69cc51a079ea0dd9
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8df5bec7c58781ed48a128d8c04c5bb0
+    Hash: 14c3be4753def4e2272c511d6d248a76
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -29,23 +29,45 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 95
   Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/Asian Far East Environment/Models/Orn_el7.fbx
+- Assets/Asian Far East Environment/Models/box_3.fbx
+- "Assets/Scenes/Scanned Architecture/\u4E03\u661F\u4E95.fbx"
+- Assets/Asian Far East Environment/Models/floor_03 lod1.fbx
 - Assets/Oculus/Interaction/Samples/Objects/Environment/MRDesk/Models/MRDesk.fbx
-- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Models/SmallRoom.fbx
-- Assets/Oculus/Interaction/Samples/Objects/Props/Key/Materials/keyMaterial.fbx
-- Assets/Oculus/Interaction/Samples/Objects/Props/IconBox/Models/iconBoxMesh.fbx
+- Assets/Asian Far East Environment/Models/Lamp_03_LOD1.fbx
+- Assets/Asian Far East Environment/Models/wicker basket.fbx
+- "Assets/Scenes/Scanned Architecture/\u5251\u6C60.fbx"
+- "Assets/Scenes/Scanned Architecture/\u5251\u6C60\u4EAD.fbx"
+- Assets/Asian Far East Environment/Models/Fence_01_LOD1.fbx
+- Assets/Asian Far East Environment/Standard Assets/Water (Pro Only)/Sources/Objects/Water
+  Plane.fbx
+- Assets/Asian Far East Environment/Models/building_15 lod2.fbx
+- Assets/Asian Far East Environment/Models/building_02 lod2.fbx
 - Assets/Oculus/Interaction/Samples/Objects/Props/Torch/Materials/torchMaterial.fbx
+- Assets/Asian Far East Environment/Models/building_03 lod1.fbx
+- Assets/Asian Far East Environment/Models/building_04 lod1.fbx
 - Assets/Oculus/Interaction/Samples/Objects/Props/Torch/Models/torchMesh.fbx
-- Assets/Oculus/Interaction/Samples/Objects/Props/Mug/Models/mugMesh.fbx
-- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Models/backgroundSkyDome.fbx
+- Assets/Asian Far East Environment/Models/floor_02 lod1.fbx
+- "Assets/Scenes/Scanned Architecture/\u6865.fbx"
 - Assets/Oculus/VR/Meshes/HandTracking/OculusHand_R.fbx
 - Assets/Oculus/VR/Meshes/HandTracking/OculusHand_L.fbx
-- Assets/Oculus/Interaction/Samples/Objects/Props/Mug/Materials/mugMaterial.fbx
-- Assets/Oculus/Interaction/Samples/Objects/Props/Key/Models/keyMesh.fbx
+- "Assets/Scenes/Scanned Architecture/\u7089\u5B501.fbx"
+- Assets/Asian Far East Environment/Models/Ground_Brick1_LOD1.fbx
+- Assets/Asian Far East Environment/Models/stone wall lod1.fbx
+- Assets/Asian Far East Environment/Models/floor_02.fbx
+- Assets/Asian Far East Environment/Models/Pag1_LOD1.fbx
+- Assets/Asian Far East Environment/Models/building_02 lod1.fbx
+- Assets/Asian Far East Environment/Models/bridge lod1.fbx
 - Assets/Oculus/Interaction/Samples/Objects/Environment/MRDesk/Models/MRDeskShadow.fbx
+- Assets/Asian Far East Environment/Models/Lamp_01.fbx
 Dependencies:
-- D:/VRDemo/My project (2)/OVRAssetBundles/OVRMasterBundle/asset_mat0
-- D:/VRDemo/My project (2)/OVRAssetBundles/OVRMasterBundle/asset_png0
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_mat2
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_png0

@@ -3,7 +3,7 @@ CRC: 4171871207
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c08d236fbedeec830cdb7d462cbb441e
+    Hash: 4bc90457b678b32b472609c131f9b98f
   TypeTreeHash:
     serializedVersion: 2
     Hash: dd328e514b669b5c2c97740efd033f62
@@ -26,8 +26,8 @@ Assets:
 - Assets/Oculus/Interaction/Runtime/Animations/Hands/IndexSlide_r_.anim
 - Assets/Oculus/Interaction/Runtime/Animations/Hands/IndexPoint_l_.anim
 - Assets/Oculus/Interaction/Runtime/Animations/Hands/HandPinch_l_.anim
-- Assets/Oculus/Interaction/Runtime/Animations/Hands/ThumbUp_r_.anim
 - Assets/Oculus/Interaction/Runtime/Animations/Hands/HandFist_l_.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/ThumbUp_r_.anim
 - Assets/Oculus/Interaction/Runtime/Animations/Hands/indexMask_r_.anim
 - Assets/Oculus/Interaction/Runtime/Animations/Hands/HandFist_r_.anim
 - Assets/Oculus/Interaction/Runtime/Animations/Hands/thumbMask_l_.anim

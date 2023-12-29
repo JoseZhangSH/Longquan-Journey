@@ -3,7 +3,7 @@ CRC: 3070655322
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7541efb7927328e96b0d7ac5e970d607
+    Hash: bd984d91e208bc213962e2142a660864
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
@@ -19,8 +19,8 @@ Assets:
 - Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_BasicGrab_Release_03.wav
 - Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_BasicPoke_ButtonPress.wav
 - Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_BasicPoke_ButtonRelease.wav
-- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_BasicGrab_Grab_05.wav
 - Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_BasicGrab_Release_05.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_BasicGrab_Grab_05.wav
 - Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_BasicGrab_Grab_04.wav
 - Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_BasicGrab_Grab_01.wav
 - Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_BasicGrab_Grab_02.wav

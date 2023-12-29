@@ -1,14 +1,16 @@
 ManifestFileVersion: 0
-CRC: 801355229
+CRC: 2828551477
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: be8dfb63442fa013bb30bcd58c9e0b58
+    Hash: cfdedd68ce48ae350b6194026ac80bce
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a7cacc1acd9ea286ac81b5ab7d409fea
+    Hash: 47024d43ceef59357d25be45c8bc1b8b
 HashAppended: 0
 ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
 - Class: 21
   Script: {instanceID: 0}
 - Class: 28
@@ -18,6 +20,10 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
 - Class: 115
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 1953259897
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
 - AssemblyName: Unity.TextMeshPro
@@ -45,6 +51,15 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Oculus/Interaction/Samples/Fonts/Roboto-Bold SDF.asset
 - Assets/Oculus/Interaction/Samples/Fonts/Roboto-Medium SDF.asset
+- Assets/Asian Far East Environment/Demo 1/Demo1 Terrain.asset
 - Assets/Oculus/Interaction/Samples/Fonts/Roboto-Regular SDF.asset
 Dependencies:
-- D:/VRDemo/My project (2)/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_prefab0
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_prefab1
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_prefab2
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_prefab3
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_terrainlayer0
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_tif0
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_tif2
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_tif3

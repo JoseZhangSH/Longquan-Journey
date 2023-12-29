@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4118006093
+CRC: 2073968190
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c5391def230407b2cb7e172be2303563
+    Hash: 92a54b0146ed03cf101cc70bba273fd2
   TypeTreeHash:
     serializedVersion: 2
     Hash: f267fd2d8bcb1179236b6179ac5313bc
@@ -16,19 +16,33 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Oculus/Interaction/Samples/Objects/Environment/MRDesk/Textures/MRDesk.png
-- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/skydomeBaked.png
-- Assets/Oculus/Interaction/Samples/Objects/Props/Key/Textures/keyTexture.png
-- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/ConcreteTiling.png
+- Assets/Asian Far East Environment/Nature/Tree1_Textures/shadow.png
+- Assets/Asian Far East Environment/Nature/Tree_medium2_Textures/normal_specular.png
+- Assets/Asian Far East Environment/Nature/Tree2_Textures/normal_specular.png
+- Assets/Asian Far East Environment/Nature/Bush2_Textures/translucency_gloss.png
+- Assets/Asian Far East Environment/Nature/Tree2_Textures/diffuse.png
+- Assets/Asian Far East Environment/Nature/Tree7_Textures/translucency_gloss.png
+- Assets/Asian Far East Environment/Nature/Tree1_Textures/translucency_gloss.png
+- Assets/Asian Far East Environment/Nature/Bush2_Textures/diffuse.png
+- Assets/Asian Far East Environment/Nature/Tree_medium2_Textures/diffuse.png
+- Assets/Asian Far East Environment/Nature/Tree_medium4_Textures/normal_specular.png
+- Assets/Asian Far East Environment/Nature/Tree4_Textures/normal_specular.png
 - Assets/Oculus/Interaction/Samples/Objects/Props/Torch/Textures/torchTexture_Metal.png
 - Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/WoodTiling.png
-- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/furnitureDiffuse.png
-- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/floorDiffuse.png
+- Assets/Asian Far East Environment/Nature/Bush2_Textures/normal_specular.png
+- Assets/Asian Far East Environment/Nature/Tree5_Textures/normal_specular.png
 - Assets/Oculus/Interaction/Runtime/Textures/fingers_glow_mask.png
-- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/CarpetTiling.png
 - Assets/Oculus/Interaction/Samples/Textures/OCUIIconSet/OCUI_24_Filled_2x.png
-- Assets/Oculus/Interaction/Samples/Objects/Props/Mug/Textures/mugTexture.png
-- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/FabricTiling.png
+- Assets/Asian Far East Environment/Nature/Tree_medium1_Textures/shadow.png
 - Assets/Oculus/Interaction/Samples/Objects/Props/Torch/Textures/torchTexture_Albedo.png
 - Assets/Oculus/Interaction/Samples/Textures/RoundCorners.png
 - Assets/Oculus/Interaction/Samples/Objects/Environment/MRDesk/Textures/MRDeskShadow.png
+- Assets/Asian Far East Environment/Nature/Tree_medium2_Textures/shadow.png
+- Assets/Asian Far East Environment/Nature/Tree1_Textures/diffuse.png
+- Assets/Asian Far East Environment/Nature/Tree2_Textures/shadow.png
+- Assets/Asian Far East Environment/Nature/Tree5_Textures/translucency_gloss.png
+- Assets/Asian Far East Environment/Nature/Tree7_Textures/diffuse.png
+- Assets/Asian Far East Environment/Nature/Tree4_Textures/translucency_gloss.png
+- Assets/Asian Far East Environment/Nature/Tree6_Textures/shadow.png
+- Assets/Asian Far East Environment/Nature/Tree_medium2_Textures/translucency_gloss.png
 Dependencies: []

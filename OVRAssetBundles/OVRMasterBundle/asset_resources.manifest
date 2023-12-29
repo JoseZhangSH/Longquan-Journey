@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2778340198
+CRC: 2590041832
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9d6629467aadbc1dbe9ba82f7d084cac
+    Hash: 1328b6c5a61f62b3a7f22d02ebfe8ffa
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 9fd6b1841087173082267e24efd3a224
+    Hash: bd3bba2e67b40a75fa1522d0e2a4c357
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -31,6 +31,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 3863570e7e6387a40ae4f323d83291e5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b3d881e962d099f4a8eb492ef7e9a8c0, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -78,6 +80,7 @@ Assets:
 - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans
   SDF - Metalic Green.mat
 - Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/Default Sprite Asset.asset
+- Assets/Resources/OculusPlatformSettings.asset
 - Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans
   SDF - Soft Mask.mat
 - Assets/Oculus/Voice/Resources/voicesdk_texts_en-us.json
@@ -148,4 +151,4 @@ Assets:
 - Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
 - Assets/Oculus/VR/Resources/Unlit Transparent Color.shader
 Dependencies:
-- D:/VRDemo/My project (2)/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- D:/VRDemo/Longquan-Journey/OVRAssetBundles/OVRMasterBundle/asset_shader0

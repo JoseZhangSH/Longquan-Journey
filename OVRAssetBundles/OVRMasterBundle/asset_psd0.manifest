@@ -1,18 +1,24 @@
 ManifestFileVersion: 0
-CRC: 447851997
+CRC: 2655718249
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4e8533a28722a091e576ff9e62011ab5
+    Hash: c6d4c3b5792d1b44dec45decaaf106d4
   TypeTreeHash:
     serializedVersion: 2
-    Hash: ff414f606ea1972259b080d7bcf51689
+    Hash: e4551a7c327c5e78b5cdc63d3c648f76
 HashAppended: 0
 ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/Asian Far East Environment/Standard Assets/Water (Pro Only)/Sources/Textures/oceangradientcube.psd
+- Assets/Asian Far East Environment/Standard Assets/Water (Pro Only)/Sources/Textures/oceangradient.psd
 - Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd
 - Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd
+- Assets/Asian Far East Environment/Standard Assets/Water (Pro Only)/Sources/Textures/Water
+  Fresnel.psd
 Dependencies: []

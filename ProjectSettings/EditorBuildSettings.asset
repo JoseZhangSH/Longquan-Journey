@@ -8,6 +8,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Select Role.unity
     guid: f3d05d3bac310074ea946a811c93055d
+  - enabled: 1
+    path: Assets/Scenes/Map.unity
+    guid: af629ca843d38f0428d09f46b4a331bb
+  - enabled: 1
+    path: Assets/Scenes/Stove.unity
+    guid: 05eb5e1311f65be41b2bb7dfd4ee41cf
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 26ebe6a47e97dab458a6b97d5c1c047e, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 98b8587177cd23d498ab81a00696f949, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 6ff445c4a484a4046a81a031f720ec58, type: 2}
